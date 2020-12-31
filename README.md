@@ -6,5 +6,5 @@
 -----
 ## 201230
 - 간단한 계산기 만들어보기
- + 숫자만 입력 가능
- + comboBox, textBox, Button 사용
+    + 숫자만 입력 가능
+    + comboBox, textBox, Button 사용
