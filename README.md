@@ -21,3 +21,22 @@
 - Rest API 개념 및 적용
 - json, RestSharp을 이용한 간단한 구현
 - GET으로 받아온 data를 json으로 바꾸고 원하는 내용을 출력하기
+
+## 210102
+- Server 만들어보기
+- 전체적인 큰 그림 정리
+
+
+---
+
+앞으로 2달동안
+
+하루 4시간 ==> programming study
+월 20일
+카록으로 출퇴근 기록
+
+Node.js , Express , C# => C#을 더 해보기
+생활코딩 
+https://opentutorials.org/course/2136/11884
+들어보기
+
