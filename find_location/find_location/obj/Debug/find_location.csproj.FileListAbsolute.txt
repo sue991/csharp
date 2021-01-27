@@ -1,0 +1,10 @@
+C:\Users\sue99\source\repos\find_location\find_location\obj\Debug\find_location.csprojAssemblyReference.cache
+C:\Users\sue99\source\repos\find_location\find_location\obj\Debug\find_location.Form1.resources
+C:\Users\sue99\source\repos\find_location\find_location\obj\Debug\find_location.Properties.Resources.resources
+C:\Users\sue99\source\repos\find_location\find_location\obj\Debug\find_location.csproj.GenerateResource.cache
+C:\Users\sue99\source\repos\find_location\find_location\obj\Debug\find_location.csproj.CoreCompileInputs.cache
+C:\Users\sue99\source\repos\find_location\find_location\bin\Debug\find_location.exe.config
+C:\Users\sue99\source\repos\find_location\find_location\bin\Debug\find_location.exe
+C:\Users\sue99\source\repos\find_location\find_location\bin\Debug\find_location.pdb
+C:\Users\sue99\source\repos\find_location\find_location\obj\Debug\find_location.exe
+C:\Users\sue99\source\repos\find_location\find_location\obj\Debug\find_location.pdb
