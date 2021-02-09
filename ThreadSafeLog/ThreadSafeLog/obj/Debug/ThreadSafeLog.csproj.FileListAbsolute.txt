@@ -1,0 +1,10 @@
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\bin\Debug\ThreadSafeLog.exe.config
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\bin\Debug\ThreadSafeLog.exe
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\bin\Debug\ThreadSafeLog.pdb
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\obj\Debug\ThreadSafeLog.csprojAssemblyReference.cache
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\obj\Debug\ThreadSafeLog.Form1.resources
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\obj\Debug\ThreadSafeLog.Properties.Resources.resources
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\obj\Debug\ThreadSafeLog.csproj.GenerateResource.cache
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\obj\Debug\ThreadSafeLog.csproj.CoreCompileInputs.cache
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\obj\Debug\ThreadSafeLog.exe
+C:\Users\sue99\source\repos\ThreadSafeLog\ThreadSafeLog\obj\Debug\ThreadSafeLog.pdb
