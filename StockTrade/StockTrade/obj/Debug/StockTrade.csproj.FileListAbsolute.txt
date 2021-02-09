@@ -1,0 +1,15 @@
+C:\Users\sue99\source\repos\StockTrade\StockTrade\bin\Debug\StockTrade.exe.config
+C:\Users\sue99\source\repos\StockTrade\StockTrade\bin\Debug\StockTrade.exe
+C:\Users\sue99\source\repos\StockTrade\StockTrade\bin\Debug\StockTrade.pdb
+C:\Users\sue99\source\repos\StockTrade\StockTrade\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\sue99\source\repos\StockTrade\StockTrade\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\StockTrade.csproj.ResolveComReference.cache
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\StockTrade.Form1.resources
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\StockTrade.Properties.Resources.resources
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\StockTrade.csproj.GenerateResource.cache
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\StockTrade.csproj.CoreCompileInputs.cache
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\StockTrade.exe
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\StockTrade.pdb
+C:\Users\sue99\source\repos\StockTrade\StockTrade\obj\Debug\StockTrade.csprojAssemblyReference.cache
