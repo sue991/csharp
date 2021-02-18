@@ -1,0 +1,8 @@
+C:\Users\sue99\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.dll
+C:\Users\sue99\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\sue99\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.UserControl1.resources
+C:\Users\sue99\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+C:\Users\sue99\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\sue99\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.dll
+C:\Users\sue99\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+C:\Users\sue99\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojAssemblyReference.cache
